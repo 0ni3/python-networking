@@ -1,4 +1,6 @@
-# python networking
+### usage
+
+```
 
 -l --listen - listen on [host]:[port] for incoming connections
 
@@ -7,3 +9,11 @@
 -c --command - initialize a command shell
 
 -u --upload=destination - upon receiving connection upload a file and write to [destination]
+
+
+```
+
+
+
+
+
